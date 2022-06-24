@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>IBM Translator App</name>
+        <order/>
+        <roles>x_739958_ibm_trans.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-22 01:38:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>86fb06ac2f50111084779dacf699b671</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IBM Translator App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IBM Translator App" source="x_739958_ibm_trans">cb5b822c2f50111084779dacf699b624</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IBM Translator App">cb5b822c2f50111084779dacf699b624</sys_scope>
+        <sys_update_name>sys_ui_application_86fb06ac2f50111084779dacf699b671</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-22 01:38:26</sys_updated_on>
+    </sys_ui_application>
+</record_update>

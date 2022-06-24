@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="language_choice" label="Language Choice" language="en" table="x_739958_ibm_trans_language_translator_form">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>language_choice</element>
+            <help/>
+            <hint/>
+            <label>Language Choice</label>
+            <language>en</language>
+            <name>x_739958_ibm_trans_language_translator_form</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-22 01:44:50</sys_created_on>
+            <sys_id>847dc6202f90111084779dacf699b669</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Language Choice</sys_name>
+            <sys_package display_value="IBM Translator App" source="x_739958_ibm_trans">cb5b822c2f50111084779dacf699b624</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IBM Translator App">cb5b822c2f50111084779dacf699b624</sys_scope>
+            <sys_update_name>sys_documentation_x_739958_ibm_trans_language_translator_form_language_choice_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-22 01:44:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
