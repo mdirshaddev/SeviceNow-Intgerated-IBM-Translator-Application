@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_739958_ibm_trans_language_translator_form">x_739958_ibm_trans_language_translator_form</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>IBM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-22 01:38:28</sys_created_on>
+        <sys_id>e6fb06ac2f50111084779dacf699b6c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IBM</sys_name>
+        <sys_package display_value="IBM Translator App" source="x_739958_ibm_trans">cb5b822c2f50111084779dacf699b624</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IBM Translator App">cb5b822c2f50111084779dacf699b624</sys_scope>
+        <sys_update_name>sys_number_e6fb06ac2f50111084779dacf699b6c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-22 01:38:28</sys_updated_on>
+    </sys_number>
+</record_update>

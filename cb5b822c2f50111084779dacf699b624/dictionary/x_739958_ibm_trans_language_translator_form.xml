@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Language Translator Form" max_length="40" name="x_739958_ibm_trans_language_translator_form" sizeclass="2" type="collection">
+        <element label="English Text" max_length="40000" name="english_text" type="string"/>
+        <element choice="3" label="Language Choice" max_length="40" name="language_choice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Arabic" value="ar"/>
+                <element inactive_on_update="false" label="Bengali" value="bn"/>
+                <element inactive_on_update="false" label="Spanish" sequence="1" value="es"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Translated Text" max_length="40000" name="translated_text" read_only="true" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

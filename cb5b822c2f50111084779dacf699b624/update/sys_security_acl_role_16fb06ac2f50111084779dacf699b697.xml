@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-22 01:38:26</sys_created_on>
+        <sys_id>16fb06ac2f50111084779dacf699b697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_739958_ibm_trans_language_translator_form.x_739958_ibm_trans.user</sys_name>
+        <sys_package display_value="IBM Translator App" source="x_739958_ibm_trans">cb5b822c2f50111084779dacf699b624</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IBM Translator App">cb5b822c2f50111084779dacf699b624</sys_scope>
+        <sys_security_acl display_value="x_739958_ibm_trans_language_translator_form">1efb06ac2f50111084779dacf699b694</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_16fb06ac2f50111084779dacf699b697</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-22 01:38:26</sys_updated_on>
+        <sys_user_role display_value="x_739958_ibm_trans.user" name="x_739958_ibm_trans.user">8f5bc66c2f50111084779dacf699b6a6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

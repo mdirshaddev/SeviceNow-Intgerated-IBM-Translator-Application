@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>IBM Translator App using REST API</description>
+        <name>IBM Translator</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/2a2d11da-f610-4a7d-b940-ed910cbd37b4</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-22 02:02:39</sys_created_on>
+        <sys_id>290112242f90111084779dacf699b6ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IBM Translator</sys_name>
+        <sys_package display_value="IBM Translator App" source="x_739958_ibm_trans">cb5b822c2f50111084779dacf699b624</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IBM Translator App">cb5b822c2f50111084779dacf699b624</sys_scope>
+        <sys_update_name>sys_rest_message_290112242f90111084779dacf699b6ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-22 02:02:39</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
