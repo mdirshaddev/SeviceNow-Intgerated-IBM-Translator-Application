@@ -10,7 +10,7 @@
         </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
-        <element label="Translated Text" max_length="40000" name="translated_text" type="string"/>
+        <element label="Translated Text" max_length="40000" name="translated_text" read_only="true" type="string"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>
